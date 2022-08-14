@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
-    "time": 1052,
-    "timeDay": 1011,
-    "timeWeek": 1074,
-    "timeMonth": 1052,
-    "timeYear": 1052,
+    "time": 1053,
+    "timeDay": 1062,
+    "timeWeek": 1044,
+    "timeMonth": 1053,
+    "timeYear": 1053,
     "dailyMinutesDown": {
       "2022-08-04": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
-    "time": 552,
-    "timeDay": 532,
-    "timeWeek": 590,
-    "timeMonth": 552,
-    "timeYear": 552,
+    "time": 553,
+    "timeDay": 567,
+    "timeWeek": 551,
+    "timeMonth": 553,
+    "timeYear": 553,
     "dailyMinutesDown": {
       "2022-08-04": 25
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
-    "time": 702,
-    "timeDay": 570,
-    "timeWeek": 739,
-    "timeMonth": 702,
-    "timeYear": 702,
+    "time": 708,
+    "timeDay": 791,
+    "timeWeek": 718,
+    "timeMonth": 708,
+    "timeYear": 708,
     "dailyMinutesDown": {
       "2022-08-04": 25
     }
@@ -64,19 +64,19 @@
     "url": "https://testing.socialconnector.io",
     "icon": "https://favicons.githubusercontent.com/testing.socialconnector.io",
     "slug": "social-connector-frontend-application-dev",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 697,
-    "timeDay": 683,
-    "timeWeek": 733,
-    "timeMonth": 697,
-    "timeYear": 697,
+    "status": "up",
+    "uptime": "99.07%",
+    "uptimeDay": "91.88%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
+    "time": 709,
+    "timeDay": 785,
+    "timeWeek": 734,
+    "timeMonth": 709,
+    "timeYear": 709,
     "dailyMinutesDown": {
-      "2022-08-14": 0,
+      "2022-08-14": 117,
       "2022-08-04": 25
     }
   },
@@ -92,8 +92,8 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
     "time": 697,
-    "timeDay": 579,
-    "timeWeek": 712,
+    "timeDay": 699,
+    "timeWeek": 688,
     "timeMonth": 697,
     "timeYear": 697,
     "dailyMinutesDown": {
