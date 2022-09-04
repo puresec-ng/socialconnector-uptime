@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 1041,
-    "timeDay": 1088,
-    "timeWeek": 1012,
-    "timeMonth": 1041,
-    "timeYear": 1041,
+    "time": 1035,
+    "timeDay": 817,
+    "timeWeek": 974,
+    "timeMonth": 1035,
+    "timeYear": 1035,
     "dailyMinutesDown": {
       "2022-08-04": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 491,
-    "timeDay": 422,
-    "timeWeek": 432,
-    "timeMonth": 491,
-    "timeYear": 491,
+    "time": 487,
+    "timeDay": 359,
+    "timeWeek": 422,
+    "timeMonth": 487,
+    "timeYear": 487,
     "dailyMinutesDown": {
       "2022-08-04": 25
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 766,
-    "timeDay": 1047,
-    "timeWeek": 881,
-    "timeMonth": 766,
-    "timeYear": 766,
+    "time": 763,
+    "timeDay": 667,
+    "timeWeek": 852,
+    "timeMonth": 763,
+    "timeYear": 763,
     "dailyMinutesDown": {
       "2022-08-04": 25
     }
@@ -65,16 +65,16 @@
     "icon": "https://favicons.githubusercontent.com/testing.socialconnector.io",
     "slug": "social-connector-frontend-application-dev",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
-    "time": 746,
-    "timeDay": 834,
-    "timeWeek": 793,
-    "timeMonth": 746,
-    "timeYear": 746,
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
+    "time": 743,
+    "timeDay": 641,
+    "timeWeek": 764,
+    "timeMonth": 743,
+    "timeYear": 743,
     "dailyMinutesDown": {
       "2022-08-14": 117,
       "2022-08-04": 25
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 742,
-    "timeDay": 855,
-    "timeWeek": 780,
-    "timeMonth": 742,
-    "timeYear": 742,
+    "time": 736,
+    "timeDay": 546,
+    "timeWeek": 737,
+    "timeMonth": 736,
+    "timeYear": 736,
     "dailyMinutesDown": {
       "2022-08-04": 25
     }
